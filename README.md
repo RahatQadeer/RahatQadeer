@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is  Rahat Qadeer and I'm a  Software Engineering Student from Pakistan.</h2>
+<h2 align="left">Hi 👋! it's me  Rahat Qadeer and I'm a  Software Engineering Student from Pakistan.</h2>
 
 ###
 
