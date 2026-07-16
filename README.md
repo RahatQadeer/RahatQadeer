@@ -18,7 +18,7 @@ turn **real-world problems into scalable tech solutions**.
 🔭 Tech interests:
 - MERN Stack · REST APIs · Firebase · AI Tools · UI/UX · DevOps Basics
   
-- 🔗 Portfolio: [Rahat-portfolio](https://rahat-portfolio-iota.vercel.app/)
+- 🔗 Portfolio: [Rahat-portfolio]([https://porfolio-six-indol-58.vercel.app/)
   
 📫 Let’s collaborate: **rahatqadeerbhatti@gmail.com**
 
